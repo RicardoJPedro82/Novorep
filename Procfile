@@ -1,1 +1,1 @@
-web: pip install . -U && windfinderplus -run
+web: pip install . -U && Novorep -run
